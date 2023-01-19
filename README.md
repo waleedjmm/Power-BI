@@ -33,11 +33,12 @@
 <img src="https://github.com/waleedjmm/Power-BI/blob/main/Sales_Dasboard.jpg" />
 <br />
   
-<h2> Superstoe Dashboard using Power BI: </h2>  
-<img src="https://github.com/waleedjmm/Power-BI/blob/main/SuperStore_%20Dashboard_using_global_SuperStore_2016_dataset.jpg" />
-<br />
   
 <h2> World Population Dashboard using Power BI: </h2>  
 <img src="https://github.com/waleedjmm/Power-BI/blob/main/World_population.jpg" />
-
+<br />
   
+  
+<h2> Superstoe Dashboard using Power BI: </h2>  
+<img src="https://github.com/waleedjmm/Power-BI/blob/main/SuperStore_%20Dashboard_using_global_SuperStore_2016_dataset.jpg" />
+
